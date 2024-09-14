@@ -1,0 +1,39 @@
+
+.header{
+    background-color: rgb(22, 0, 17);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 10%;
+    font-family: "Sofia", sans-serif;
+}
+
+.nav_bar{
+
+
+}
+
+
+
+body {
+    background-color: rgb(123, 60, 148);
+    font-family: "Arial", sans-serif;
+
+  }
+
+h1{
+    font-size: xx-large;
+
+}
+
+
+p{
+    font-size: large;
+    font-weight: 600;
+
+}
+
+a{
+    font-style: italic;
+    color: rgb(228, 217, 217);
+    font; 
+}
